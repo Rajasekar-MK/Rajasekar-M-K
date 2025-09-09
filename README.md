@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rajasekar M K
 
-💻 QA Test Engineer (Manual & Automation Testing) 
-🎓 MCA Graduate |  
+💻 QA Test Engineer (Manual & Automation Testing)  
+🎓 MCA Graduate
 
 🧪 Skilled in **Automation, Functional, Regression, Smoke, Sanity, and API Testing**  
 ⚡ Hands-on with **Selenium WebDriver, TestNG, Cucumber (BDD), Postman, SQL, JIRA, Azure DevOps**  
@@ -38,6 +38,6 @@
 ---
 
 📫 **How to reach me:**  
-🔗**LinkedIn:** [https://www.linkedin.com/in/rajasekar-mk-qa](https://www.linkedin.com/in/rajasekar-mk-qa)
-* **GitHub:** [https://github.com/Rajasekar-MK](https://github.com/Rajasekar-MK)
-✉️ **Email:** [rajasekarmkqa@gmail.com](mailto:rajasekarmkqa@gmail.com)
+🔗**LinkedIn:** [https://www.linkedin.com/in/rajasekar-mk-qa](https://www.linkedin.com/in/rajasekar-mk-qa)  
+* **GitHub:** [https://github.com/Rajasekar-MK](https://github.com/Rajasekar-MK)  
+✉️ **Email:** [rajasekarmkqa@gmail.com](mailto:rajasekarmkqa@gmail.com)  
