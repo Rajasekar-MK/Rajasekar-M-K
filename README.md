@@ -29,5 +29,6 @@ turning requirements into reliable and bug-free applications.
 ---
 
 📫 **How to reach me:**  
-✉️ rajasekarmkqa@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rajasekar-mk-qa)
+🔗**LinkedIn:** [https://www.linkedin.com/in/rajasekar-mk-qa](https://www.linkedin.com/in/rajasekar-mk-qa)
+* **GitHub:** [https://github.com/Rajasekar-MK](https://github.com/Rajasekar-MK)
+✉️ **Email:** [rajasekarmkqa@gmail.com](mailto:rajasekarmkqa@gmail.com)
