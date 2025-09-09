@@ -37,7 +37,8 @@
 
 ---
 
-📫 **How to reach me:**  
-🔗**LinkedIn:** [https://www.linkedin.com/in/rajasekar-mk-qa](https://www.linkedin.com/in/rajasekar-mk-qa)  
-* **GitHub:** [https://github.com/Rajasekar-MK](https://github.com/Rajasekar-MK)  
-✉️ **Email:** [rajasekarmkqa@gmail.com](mailto:rajasekarmkqa@gmail.com)  
+## 📫 How to reach me  
+
+- 🔗 **LinkedIn:** [linkedin.com/in/rajasekar-mk-qa](https://www.linkedin.com/in/rajasekar-mk-qa)  
+- 🐙 **GitHub:** [github.com/Rajasekar-MK](https://github.com/Rajasekar-MK)  
+- ✉️ **Email:** [rajasekarmkqa@gmail.com](mailto:rajasekarmkqa@gmail.com)
